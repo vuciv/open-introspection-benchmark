@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+sentencepiece
+huggingface_hub
+google-generativeai
+numpy
+pandas
+matplotlib
+seaborn
+rich

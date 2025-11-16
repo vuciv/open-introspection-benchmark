@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+.env/
+venv/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp data
+*.log
+*.tmp
+*.cache
+
+# Result artifacts
+analysis/results/photos/
+analysis/results/data/*.json
+analysis/results/data/*.jsonl
+
+# Secrets and tokens
+.env.local
+*.env
+secrets/
+
+# OS metadata
+.DS_Store
+Thumbs.db
