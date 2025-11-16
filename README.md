@@ -1,7 +1,6 @@
 # Open Introspection Benchmark
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/vuciv/open-introspection-benchmark/blob/main/LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vuciv/open-introspection-benchmark/blob/main/introspection_experiments.ipynb)
 [![Connect on X](https://img.shields.io/twitter/follow/joshycodes?style=social)](https://twitter.com/joshycodes)
 
 > Reproducing the "injected thought" introspection protocol from Lindsey (2025) on open-weight language models.
